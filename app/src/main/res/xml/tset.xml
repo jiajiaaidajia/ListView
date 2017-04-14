@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>   
+<Result>  
+   <VALUE>  
+       <NO DATE="2005">true</NO>
+   </VALUE>  
+   <VALUE>  
+       <NO DATE="2004">false</NO>
+  </VALUE>
+    <VALUE>
+        <NO DATE="2003">true</NO>
+    </VALUE>
+    <VALUE>
+        <NO DATE="2002">true</NO>
+    </VALUE>
+    <VALUE>
+        <NO DATE="2001">false</NO>
+    </VALUE>
+    <VALUE>
+        <NO DATE="2000">true</NO>
+    </VALUE>
+</Result> 
